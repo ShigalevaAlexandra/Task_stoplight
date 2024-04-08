@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="solid_bcgr_stoplight">#212C33</color>
+    <color name="stroke_bcgr_stopight">#07131B</color>
+    <color name="red_color">#9B1919</color>
+    <color name="yellow_color">#F1DC1A</color>
+    <color name="green_color">#439B19</color>
+    <color name="grey_color">#4A4A4A</color>
+</resources>
